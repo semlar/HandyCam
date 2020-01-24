@@ -1,0 +1,6 @@
+## Interface: 80000
+## Title: HandyCam
+## Notes: Accelerates the camera zoom more better
+## Author: Semlar
+## Version: 8.0.0.1
+core.lua
