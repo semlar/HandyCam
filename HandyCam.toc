@@ -1,6 +1,6 @@
-## Interface: 90001
+## Interface: 90002
 ## Title: HandyCam
 ## Notes: Accelerates the camera zoom more better
 ## Author: Semlar
-## Version: 9.0.0.0
+## Version: 9.0.2.0
 core.lua
